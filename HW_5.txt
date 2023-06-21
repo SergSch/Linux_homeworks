@@ -1,0 +1,4 @@
+Hello, ec2-user!
+Wed Jun 21 17:05:43 UTC 2023
+You are in /opt/090523_morning/Serg_S
+[ec2-user@ip-172-31-33-20 Serg_S]$
